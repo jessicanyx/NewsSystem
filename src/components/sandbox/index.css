@@ -1,0 +1,9 @@
+.logo {
+    color: azure;
+    background-color: rgba(255,255,255,0.2);
+    font-size: large;
+    height: 64px;
+    text-align: center;
+    padding: 16px;
+    font-weight: 600;
+}
